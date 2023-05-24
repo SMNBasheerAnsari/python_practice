@@ -1,0 +1,11 @@
+print('python chat box')
+print('Welcom, To')
+print('-Python AI-')
+a=input()
+print('Please mention your name here:')
+b=input()
+print('hello',b)
+print('please share your experiance-')
+c=input()
+print('thankyou,',b,'for helping us to improve with your feedback-') 
+
